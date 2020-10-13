@@ -22,7 +22,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.11</version>
+      <version>4.13.1</version>
       <!-- <scope>test</scope> -->
       <!-- 在这里添加了<scope>标签项，由于添加了该项，并将该项的值设置为了test，
            所以，junit模块的作用范围就仅限于test模块（即/srec/test文件夹模块下）
